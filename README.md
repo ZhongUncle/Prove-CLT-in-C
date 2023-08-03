@@ -1,5 +1,5 @@
 # Prove-CLT-in-CPP
-This project inspired by 3Blue1Brown. When I watch the [But what is the Central Limit Theorem?](https://www.youtube.com/watch?v=zeJD6dqJ5lo), I notice the dice example is a good trail for  programming to "draw" a normal distribution curve. So I write C++ codes and use PPM format image to prove it and try more probability to draw diffderent images. The results of different conditions like magic of nature and math. I want to more people can use computer to see the "magic" by themselves.
+This project is inspired by 3Blue1Brown. When I watch the [But what is the Central Limit Theorem?](https://www.youtube.com/watch?v=zeJD6dqJ5lo), I notice the dice example is a good trial for  programming to "draw" a normal distribution curve. So I wrote C++ codes and use PPM format image to prove it and try more probability to draw diffderent images. The results of different conditions like magic of nature and math. I want more people to be able to use computer to see the "magic" by themselves.
 
 If you can read Chinese, there is a blog to describe the details and some trials (two URL are same, choose which you can fast access):
 
