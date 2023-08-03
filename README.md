@@ -3,8 +3,8 @@ This project inspired by 3Blue1Brown. When I watch the [But what is the Central 
 
 If you can read Chinese, there is a blog to describe the details and some trials (two URL are same, choose which you can fast access):
 
- - My Blog Site URL: [《使用 C 语言验证非均匀概率的离散事件在样本数量足够大时，符合正态分布曲线（通过生成一个PPM格式的图像）》](https://zhonguncle.github.io/blogs/e78f83ae476fb30a2b0f619e9338dcae.html)
- - CSDN URL: [《使用 C 语言验证非均匀概率的离散事件在样本数量足够大时，符合正态分布曲线（通过生成一个PPM格式的图像）》](https://blog.csdn.net/qq_33919450/article/details/130706860)
+ - My Blog Site URL: [《使用 C++ 验证非均匀概率的离散事件在样本数量足够大时，符合正态分布曲线（通过生成一个PPM格式的图像）》](https://zhonguncle.github.io/blogs/e78f83ae476fb30a2b0f619e9338dcae.html)
+ - CSDN URL: [《使用 C++ 验证非均匀概率的离散事件在样本数量足够大时，符合正态分布曲线（通过生成一个PPM格式的图像）》](https://blog.csdn.net/qq_33919450/article/details/130706860)
 
 If you are good at Chinese, you maybe can help me translate it to your language.
 
