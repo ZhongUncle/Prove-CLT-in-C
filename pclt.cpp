@@ -57,7 +57,7 @@ int main() {
     for (int i=0; i<width; i++) {
         // sumArr[i]/2 to scale image
         for (int j=height-1; j>=height-sumArr[i]; j--) {
-            //Widening images
+            //widening images
             for (int k=0; k<10; k++) {
                 output[j*width+i*10+k]=256;
             }
